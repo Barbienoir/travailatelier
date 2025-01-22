@@ -1,3 +1,4 @@
+
 .videos{
     margin-right: 15px;
     margin-left: 15px;
@@ -105,4 +106,19 @@
     grid-row: 4 / 5;
     background-image: url(photo16.jpg);
     background-size: cover;
+
+.Accueil{
+    display: flex;
+    justify-content: space-around;
+    background: pink;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 1;
+}
+.pied{
+    text-align: center;
+    background: pink;
+    padding: 20px;
+    border-radius: 10px;
+
 }
