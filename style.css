@@ -106,7 +106,7 @@
     grid-row: 4 / 5;
     background-image: url(images/photo16.jpg);
     background-size: cover;
-
+}
 .Accueil{
     display: flex;
     justify-content: space-around;
@@ -120,5 +120,4 @@
     background: pink;
     padding: 20px;
     border-radius: 10px;
-
 }
